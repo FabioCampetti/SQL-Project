@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Vuelos:jar">
+    <output-path>$PROJECT_DIR$/../../Documentos/Entrega2</output-path>
+    <root id="archive" name="Vuelos.jar">
+      <element id="module-output" name="Vuelos" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Documentos/Base de Datos/mysql-connector-java-8.0.17/mysql-connector-java-8.0.17.jar" path-in-jar="/" />
+      <element id="library" level="project" name="java" />
+    </root>
+  </artifact>
+</component>
